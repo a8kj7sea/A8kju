@@ -3,11 +3,6 @@
 
 Simple Swing GUI Lib created to simple project as test 
 
-
-Here's a polished version of the Maven instructions for your README:
-
-
-
 To use this project with Maven, follow these steps:
 
 ### Step 1: Add the JitPack Repository
